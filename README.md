@@ -1,9 +1,11 @@
 # PersonalPortfolio
-This is Lambros Vagias portfolio. Please read the README.file to understand the scope of each code file.
+_This is Lambros Vagias portfolio. Please read the README.file to understand the scope of each code file._
 
 
 
--------------------------------          ETL Script Assignment
+-------------------------------        **  ETL Script Assignment **     ---------------------------------------------------
+
+
 ETL Script Assignment
 Introduction
 As part of this assignment, you are required to create an ETL (Extract, Transform, Load) script using any programming language of your choice. The script should fetch data from a dataset, perform necessary transformations, and generate a file in JSON format with the required fields.
